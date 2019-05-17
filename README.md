@@ -1,3 +1,2 @@
-# neusymar.tk
-## alternatively, neusymar.github.io
-Neusymar de Lima's website
+# neusymar.github.io
+Neusymar de Lima's website (Hello, Dad!)
